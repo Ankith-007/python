@@ -1,0 +1,1 @@
+c = char(input("Enter a character:"))
